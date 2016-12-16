@@ -24,14 +24,20 @@
 
 .ipynb_checkpoints/*
 
+*.toc
+*.snm
+*.out
+*.nav
 
 
 ## Directories & files
 
 project/Code/.ipynb_checkpoints/*
 
-project/Paper/Figures/*
+project/Paper/figures/*
 project/Paper/paper.pdf
+project/Presentation/figures/*
+
 
 
 # git has its own built in compression methods
