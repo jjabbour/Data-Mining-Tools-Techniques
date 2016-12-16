@@ -2,23 +2,14 @@
 ##
 
 *.bak
-
 *.sav
-
 *.aux
-
 *.blg
-
 *.dvi
-
 *.lof 
-
 *.log
-
 *.sty
-
 *.bbl
-
 *.pdf 
 
 
@@ -33,31 +24,30 @@
 ## Directories & files
 
 project/Code/.ipynb_checkpoints/*
-
 project/Paper/figures/*
 project/Paper/paper.pdf
 project/Presentation/figures/*
-
+Assignment/A1/.ipynb_checkpoints/*
+Assignment/A2/.ipynb_checkpoints/*
+Assignment/A3/.ipynb_checkpoints/*
+Assignment/A4/.ipynb_checkpoints/*
+Assignment/A5/.ipynb_checkpoints/*
+Assignment/A6/.ipynb_checkpoints/*
+Assignment/A7/.ipynb_checkpoints/*
+Assignment/A8/.ipynb_checkpoints/*
+Assignment/A7/enron.mbox.json
+Assignment/A8/mnist.pkl
 
 
 # git has its own built in compression methods
 
 *.7z
-
 *.dmg
-
 *.gz
-
 *.iso
-
 *.jar
-
 *.rar
-
 *.tar
-
 *.zip
-
 *.pyc
-
 *.synctex
