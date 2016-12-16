@@ -30,6 +30,8 @@
 
 project/Code/.ipynb_checkpoints/*
 
+project/Paper/Figures/*
+project/Paper/paper.pdf
 
 
 # git has its own built in compression methods
@@ -51,3 +53,5 @@ project/Code/.ipynb_checkpoints/*
 *.zip
 
 *.pyc
+
+*.synctex
